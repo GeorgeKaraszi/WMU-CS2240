@@ -92,7 +92,7 @@ void* nu_realloc(void* ptr, size_t size);
 void nu_free(void* ptr);
 ```
 
-### Due: February 4th, 2014
+### Due: September 30th, 2014
 
 ## The Grade
 Your assignment will be compiled and run through an automated test suite. For this reason, it is IMPERATIVE that you stick to the guidelines and naming conventions. If you do not, your code will not interact properly with the tests and you will be injustly rewarded with a bad grade.
