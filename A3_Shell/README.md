@@ -24,7 +24,7 @@ You should split up the functionality of your shell into various functions. Seri
 You do not need a header file in this assignment, although you certainly may provide one if you wish. 
 
 ## The Specs
-**Builtins:** You should implement `echo`, `cd` and `exit` as builtins. 
+**Builtins:** You should implement `echo`, `umask`, `backgrounding`, `cd` and `exit` as builtins. 
 
 **Non-builtins:** Your shell should be able to execute any external executable via the `execvp()` command. 
 
@@ -34,7 +34,7 @@ You do not need a header file in this assignment, although you certainly may pro
 
 **(Bonus) Globbing:** Your shell should be able to handle basic globbing with the * operator. This is optional, but it would be really cool! 
 
-### Due: February 18th, 2014
+### Due: October 22, Wednesday
 
 ## The Grade
 As usual, your assignment will be compiled and run through an automated test suite. Ensure that you don't mangle the prototype of the `shell()` function. 
