@@ -33,6 +33,9 @@ Your makefile should produce an executable which takes one argument (a directory
 ## Output
 The output should be a single ASCII file called `sorted.yay` containing all of the records from each individual data file in sorted order. 
 
+### Due: Tuesday November 4th
+
+
 ## Other Things
 I am not responsible for anything that you may find at any of the domain names in the test data. 
 
